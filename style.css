@@ -5,3 +5,60 @@
     padding: 5px;
     width: 50%;
 }
+.external {
+    color: rgb(7, 7, 7);
+    
+}
+.color {
+    background-color:rgb(232, 232, 232);
+}
+
+.bodi {
+    background-color: dimgrey;
+}
+
+body {background-color: rgb(105, 105, 105);}
+        .porto {color: brown;}
+        
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.nav li {
+    float: left;
+}
+
+.nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav li a:hover {
+    background-color: #111;
+}
+
+.foto-saya {
+    width : 250px;
+    height: 250px;
+    object-fit: cover;
+}
+#foto-saya {
+    height: 70vh;
+}
+.title {
+    font-family: 'Raleway', sans-serif;
+}
+.subtitle {
+    letter-spacing: 10px;
+}
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
